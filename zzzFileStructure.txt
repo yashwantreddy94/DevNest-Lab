@@ -1,0 +1,20 @@
+devnest-lab/
+│
+├── index.html
+├── services.html
+├── work.html
+├── about.html
+├── contact.html
+│
+├── include/
+│   ├── header.html
+│   └── footer.html
+│
+├── sample-projects/
+│   └── (some files)
+│
+└── assets/
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── script.js
